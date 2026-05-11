@@ -1,6 +1,6 @@
 ## Victor Lewis Murimi | Backend Engineer
 
-### ### 👨‍💻 Scalable Backends & Agentic AI
+### Scalable Backends & Agentic AI
 
 I specialize in building robust systems using **Python** and **FastAPI**. My work focuses on **agentic coding**—creating AI-driven workflows that automate complex development tasks.
 
