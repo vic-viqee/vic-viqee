@@ -1,16 +1,14 @@
-## Hi there 👋
+## Victor Lewis Murimi | Backend Engineer
 
-<!--
-**vic-viqee/vic-viqee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ### 👨‍💻 Scalable Backends & Agentic AI
 
-Here are some ideas to get you started:
+I specialize in building robust systems using **Python** and **FastAPI**. My work focuses on **agentic coding**—creating AI-driven workflows that automate complex development tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **🔭 Currently working on:**
+* High-performance API integrations and automated fintech solutions.
+* **🌱 Learning:**
+* Advanced agent orchestration and secure system design.
+* **💬 Ask me about:**
+* Python, FastAPI, and why everything should be automated.
+* **⚡ Fun fact:**
+* I believe the best code is the code that writes itself.
