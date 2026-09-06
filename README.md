@@ -1,13 +1,13 @@
-# ⚡ Victor Lewis Murimi
+# Victor Lewis Murimi
 ### BACKEND ENGINEER · AGENTIC AI DEVELOPER · SYSTEM ARCHITECT
 
 I engineer scalable backend architecture, automated API services, and agentic AI workflows. My focus is on building resilient server-side infrastructure and autonomous development tools.
 
-[🌐 Portfolio](https://victormurimi.dev) · [💼 LinkedIn](https://linkedin.com/in/victor-murimi) · [✉️ Email](mailto:victtorlewismurimi@gmail.com)
+[Portfolio](https://victormurimi.dev) · [LinkedIn](https://linkedin.com/in/victor-murimi) · [Email](mailto:victtorlewismurimi@gmail.com)
 
 ---
 
-### 🧬 About the system
+### About the me
 I am a Kenya based software engineer specializing in backend architecture, system automation, and agentic AI workflows. My engineering philosophy focuses on reliability, clean interface, and operational logic. 
 
 I work on designing high-throughput backend services, fintech transaction integrations, and AI agents that automate complex development tasks.
@@ -16,20 +16,20 @@ I work on designing high-throughput backend services, fintech transaction integr
 
 ---
 
-### 🛰️ Core Capabilities
+### Core Capabilities
 
-#### ⚙️ Backend & API Engineering
+#### Backend & API Engineering
 Production-ready microservices, high-performance REST APIs, database design, transaction reconciliation, and asynchronous task execution.
 
-#### 🤖 Agentic AI & Automation
+#### Agentic AI & Automation
 Autonomous coding workflows, serverless model inference pipelines, and LLM orchestration tools that eliminate developer friction.
 
-#### 🛡️ System Security & Networking
+#### System Security & Networking
 Secure API design, authentication systems, network infrastructure, and vulnerability-aware backend deployment workflows.
 
 ---
 
-### 🚀 Selected Builds
+### Selected Builds
 
 #### 01 · FluxPay
 An automated SaaS platform for M-Pesa STK Push payments, recurring billing, and real time transaction reconciliation built for developer integration.
@@ -42,9 +42,9 @@ An offline-first application engineered for local retail shopkeepers to track in
 
 ---
 
-### 🧰 Technical Toolkit
+### Technical Toolkit
 
-#### Languages & Core Runtimes
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,13 +62,13 @@ An offline-first application engineered for local retail shopkeepers to track in
 
 ---
 
-### 🌐 Connect to the Network
+### Connect to the Network
 
 | Channel | Link |
 |---|---|
-| 🌐 **Portfolio** | [victormurimi.dev](https://victormurimi.dev) |
-| 💼 **LinkedIn** | [linkedin.com/in/victor-murimi](https://linkedin.com/in/victor-murimi) |
-| ✉️ **Email** | [contact@victormurimi.dev](mailto:victorlewismurimi@gmail.com) |
+| **Portfolio** | [victormurimi.dev](https://victormurimi.dev) |
+| **LinkedIn** | [linkedin.com/in/victor-murimi](https://linkedin.com/in/victor-murimi) |
+| **Email** | [contact@victormurimi.dev](mailto:victorlewismurimi@gmail.com) |
 
 ---
 
